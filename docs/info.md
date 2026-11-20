@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Counts up using 2 JK FFs for 2 bits
 ## How to test
 
-Explain how to use your project
-
+It is permanently linked to logic high, so read LEDs to look at outputs.
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 LEDs for outputs
